@@ -1,4 +1,3 @@
-import numpy as np
 import pandas as pd
 
 df_csv = pd.read_csv("")  # arq dentro das aspas
